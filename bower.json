@@ -1,0 +1,24 @@
+{
+  "name": "BackboneLearn",
+  "version": "0.0.0",
+  "authors": [
+    "FFusion <umbro133@mail.ru>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~0.9.1",
+    "underscore": "~1.3.3",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6",
+    "backbone.localStorage": "~1.1.16",
+    "bootstrap-material-design": "~0.5.5",
+    "snackbarjs": "~1.0.0"
+  }
+}
