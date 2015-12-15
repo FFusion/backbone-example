@@ -10,7 +10,6 @@ App.Router = Backbone.Router.extend({
     },
 
     car: function(id) {
-        console.log(id);
         $('.main-content').hide();
         $('.car-content').show();
 
