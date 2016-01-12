@@ -28,7 +28,6 @@ App.Views.Auto = Backbone.View.extend({
     },
 
     lookMore: function() {
-        controller.navigate("car/" + this.model.id, {trigger:true});
         controller.car();
         var viewMore = new App.Views.More({model:this.model});
     },
