@@ -1,0 +1,24 @@
+{
+  "name": "BackboneLearn",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FFusion/backbone-example.git"
+  },
+  "author": "FFusion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FFusion/backbone-example/issues"
+  },
+  "homepage": "https://github.com/FFusion/backbone-example",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.3"
+  }
+}
